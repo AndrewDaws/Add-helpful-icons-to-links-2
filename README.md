@@ -4,7 +4,7 @@ GitHub hosted fork of the [Add helpful icons to links 2](https://userstyles.org/
 # What Is it?
 The userscript provides icons next to links according to the corresponding filetype, as seen in the example below:
 
-![Preview](https://raw.githubusercontent.com/AndrewDaws/Add-helpful-icons-to-links-2/master/124510_after.png)
+![Preview](https://raw.githubusercontent.com/AndrewDaws/Add-helpful-icons-to-links-2/master/example.png)
 
 # What Do I Need?
 - ![](https://i.imgur.com/zD5npRg.png) **Firefox**
