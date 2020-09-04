@@ -21,21 +21,21 @@ After that you correctly prepared the installation, you can download the script 
 **Download Add helpful icons to links 2:** [![](https://i.imgur.com/0KCjrsZ.png)](https://github.com/AndrewDaws/Add-helpful-icons-to-links-2/raw/master/add-helpful-icons-to-links-2.user.js)
 
 # Did it Work?
-If the userscript was installed successfully, the following text and links should show icon like the example image above:
+If the userscript was installed successfully, the following links should show icons like the example image above:
 
-test.jpg<br/>
-test.png<br/>
-test.gif<br/>
-test.mp3<br/>
-test.mp4<br/>
-test.doc<br/>
-test.pdf<br/>
+[test.jpg](test.jpg)<br/>
+[test.png](test.png)<br/>
+[test.gif](test.gif)<br/>
+[test.mp3](test.mp3)<br/>
+[test.mp4](test.mp4)<br/>
+[test.doc](test.doc)<br/>
+[test.pdf](test.pdf)<br/>
 mailto:test@test.com<br/>
-ftp://test.com<br/>
-sftp://test.com<br/>
-irc://test.com<br/>
+[ftp://test.com](ftp://test.com)<br/>
+[sftp://test.com](sftp://test.com)<br/>
+[irc://test.com](irc://test.com)<br/>
 skype:test.user<br/>
 ts3server://test.com<br/>
-https://discord.gg/test<br/>
+[https://discord.gg/test](https://discord.gg/test)<br/>
 minecraft://test.com<br/>
 apt://test<br/>
