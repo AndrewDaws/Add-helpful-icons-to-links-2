@@ -1,11 +1,23 @@
 // ==UserScript==
-// @name          Add helpful icons to links 2
-// @namespace     http://userstyles.org
-// @description	  Original: Add helpful icons to links by raezr.
-// @author        Bluscream
-// @homepage      https://userstyles.org/styles/124510
-// @run-at        document-start
-// @version       0.20161206232659
+// @name Add helpful icons to links 2
+// @version 0.3
+// @description Add helpful icons to links
+// @license CC0-1.0 License
+// @homepageURL https://github.com/AndrewDaws/Add-helpful-icons-to-links-2
+// @supportURL https://github.com/AndrewDaws/Add-helpful-icons-to-links-2/issues
+// @namespace github.com/AndrewDaws/Add-helpful-icons-to-links-2
+// @run-at document-start
+// @include *
+// @exclude https://www.google.*/search*
+// @exclude https://www.google.*/webhp*
+// @exclude https://music.google.com/*
+// @exclude https://mail.google.com/*
+// @exclude https://docs.google.com/*
+// @exclude https://encrypted.google.com/*
+// @exclude http://mxr.mozilla.org/*
+// @exclude http://w3c*.github.io/*
+// @compatible firefox Tampermonkey latest
+// @compatible chrome Tampermonkey latest
 // ==/UserScript==
 (function() {var css = [
 	"/*",
