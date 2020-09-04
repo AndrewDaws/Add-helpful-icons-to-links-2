@@ -21,7 +21,7 @@ After that you correctly prepared the installation, you can download the script 
 **Download Add helpful icons to links 2:** [![](https://i.imgur.com/0KCjrsZ.png)](https://github.com/AndrewDaws/Add-helpful-icons-to-links-2/raw/master/add-helpful-icons-to-links-2.user.js)
 
 # Did it Work?
-If the userscript was installed successfully, the following links should show icons like the example image above:
+If the userscript was installed successfully, there should be icons next to each of the links similar to the example image above:
 
 [test.jpg](test.jpg)<br/>
 [test.png](test.png)<br/>
